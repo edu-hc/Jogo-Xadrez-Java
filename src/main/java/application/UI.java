@@ -19,7 +19,7 @@ public class UI {
     private static void printPiece(ChessPiece piece) {
 
         if(piece == null) {
-            System.out.println("-")
+            System.out.println("-");
         }
         else {
             System.out.println(piece);
